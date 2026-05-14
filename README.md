@@ -1,5 +1,5 @@
 # ⚽🏆 WinFPL - Fantasy Premier League Analytics/Live Dashboard
-# Fantasy Premier League Data Dashboard
+# Fantasy Premier League Analytics Dashboard
 
 **WinFPL** is an interactive data dashboard for Fantasy Premier League managers that combines live FPL API data, player performance trends, fixture difficulty, and a lightweight prediction model to support better transfer, lineup, and captaincy decisions. The project demonstrates data collection, feature engineering, dashboard design, exploratory analysis, and predictive analytics in a real-world sports analytics use case.
 
@@ -14,32 +14,38 @@ Fantasy Premier League managers often need to make weekly decisions under time p
 ## Screenshots
 
 ### Player Comparison
+![Player comparison view](./assets/images/screenshot-players-comparison.jpg)
+
 Player comparison view — filter by position, team, price, and predicted points to quickly rank transfer candidates.
 
 ### Form vs Predicted Score
+![Form vs predicted score](./assets/images/screenshot-form-vs-predicted-score.jpg)
+
 Form vs predicted score — compare recent form with expected output to identify high-upside players.
 
 ### Captaincy Heatmap
+![Captaincy heatmap](./assets/images/screenshot-captaincy-heatmap.jpg)
+
 Captaincy heatmap — visually rank top captain candidates by form and prediction strength.
 
 ## Data Source
 
 The dashboard uses live data from the official Fantasy Premier League API, including:
-- Player statistics.
-- Team information.
-- Fixture schedules.
-- Historical performance data.
+- Player statistics
+- Team information
+- Fixture schedules
+- Historical performance data
 
 The data is transformed into analytics-friendly features such as recent form, points-per-million, fixture difficulty, and predicted next-gameweek output.
 
 ## Features
 
-- Live FPL data for players, teams, fixtures, and performance history.
-- Interactive filters by team, position, price, form, and predicted points.
-- Advanced metrics such as 3GW form, fixture difficulty, PPM, and age-adjusted views.
-- Interactive Plotly visualizations including scatter plots, treemaps, and comparison charts.
-- Captaincy heatmap to highlight strong predicted performers.
-- Lightweight RandomForest model for next gameweek point estimation.
+- Live FPL data for players, teams, fixtures, and performance history
+- Interactive filters by team, position, price, form, and predicted points
+- Advanced metrics such as 3GW form, fixture difficulty, PPM, and age-adjusted views
+- Interactive Plotly visualizations including scatter plots, treemaps, and comparison charts
+- Captaincy heatmap to highlight strong predicted performers
+- Lightweight RandomForest model for next gameweek point estimation
 
 ## Key Insights
 
@@ -83,8 +89,8 @@ streamlit run winfpl.py
 
 ## Limitations and Future Work
 
-- The prediction model has limited explanatory power and should be used as a directional aid.
-- FPL outcomes are noisy and affected by many match-specific factors not fully captured in the model.
-- The dashboard is strongest for short-term comparison and decision support, not long-range forecasting.
+- The prediction model has limited explanatory power and should be used as a directional aid
+- FPL outcomes are noisy and affected by many match-specific factors not fully captured in the model
+- The dashboard is strongest for short-term comparison and decision support, not long-range forecasting
 
 Built by Jwel Sharma for FPL managers and data science portfolio. ⭐
