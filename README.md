@@ -15,17 +15,17 @@ Fantasy Premier League managers often need to make weekly decisions under time p
 ## Screenshots
 
 ### Player Comparison
-![Player comparison view](./assets/images/screenshot-players-comparison.jpg)
+![Player comparison view](./assets/images/screenshot-players-comparison.png)
 
 Player comparison view — filter by position, team, price, and predicted points to quickly rank transfer candidates.
 
 ### Form vs Predicted Score
-![Form vs predicted score](./assets/images/screenshot-form-vs-predicted-score.jpg)
+![Form vs predicted score](./assets/images/screenshot-form-vs-predicted-score.png)
 
 Form vs predicted score — compare recent form with expected output to identify high-upside players.
 
 ### Captaincy Heatmap
-![Captaincy heatmap](./assets/images/screenshot-captaincy-heatmap.jpg)
+![Captaincy heatmap](./assets/images/screenshot-captaincy-heatmap.png)
 
 Captaincy heatmap — visually rank top captain candidates by form and prediction strength.
 
