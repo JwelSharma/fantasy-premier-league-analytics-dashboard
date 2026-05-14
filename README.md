@@ -10,7 +10,7 @@ Fantasy Premier League managers often need to make weekly decisions under time p
 
 ## Live Demo
 
-[Deployed on Streamlit Cloud](https://winfplwithml.streamlit.app/)
+[Deployed on Streamlit Cloud] (https://winfplwithml.streamlit.app/)
 
 
 ## Data Source
