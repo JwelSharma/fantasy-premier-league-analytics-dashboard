@@ -1,5 +1,6 @@
-# ⚽🏆 WinFPL - Fantasy Premier League Analytics/Live Dashboard
+## ⚽🏆 WinFPL - Fantasy Premier League Analytics/Live Dashboard
 # Fantasy Premier League Analytics Dashboard
+
 
 **WinFPL** is an interactive data dashboard for Fantasy Premier League managers that combines live FPL API data, player performance trends, fixture difficulty, and a lightweight prediction model to support better transfer, lineup, and captaincy decisions. The project demonstrates data collection, feature engineering, dashboard design, exploratory analysis, and predictive analytics in a real-world sports analytics use case.
 
