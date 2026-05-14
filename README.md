@@ -58,7 +58,9 @@ Python | Streamlit | Pandas | Plotly | Scikit-learn | FPL API
 | Metric | Value |
 
 | RMSE | ~2.7 |
+
 | MAE | ~2.0 |
+
 | R² | 0.15 |
 
 
