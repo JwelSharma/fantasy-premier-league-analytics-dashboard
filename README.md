@@ -1,4 +1,4 @@
-# ⚽🏆 WinFPL - FPL Pro Analytics/ML Predictions
+# ⚽🏆 WinFPL - Fantasy Premier League Analytics/Live Dashboard
 
 WinFPL is a data analytics dashboard for Fantasy Premier League managers that combines live FPL API data, player performance trends, fixture difficulty, and a lightweight prediction model to support better transfer, lineup, and captaincy decisions. The project demonstrates data collection, feature engineering, dashboard design, exploratory analysis, and predictive analytics in a real-world sports analytics use case.
 
